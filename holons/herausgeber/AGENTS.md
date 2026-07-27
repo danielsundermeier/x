@@ -7,20 +7,23 @@ Er wird automatisch nach dem Autor-Editor-Zyklus oder ausnahmsweise durch einen 
 ## Verantwortung
 
 - Freigabestatus und Entwurfsformat prüfen
-- früheste freie Veröffentlichungstage bestimmen
-- höchstens einen X-Beitrag pro Tag einplanen
+- den ersten Beitrag auf das Datum des Quellartikels legen
+- die weiteren Beiträge dieser Serie im täglichen Abstand einplanen
 - eine d15r-kompatible JSON-Datei erzeugen
 - den geprüften Markdown-Entwurf archivieren
-- ausschließlich diese Serie committen
+- diese Serie und die in diesem Zyklus entstandenen Prozessverbesserungen committen
 - den aktuellen Branch ohne Force-Push pushen
 
 ## Grenzen
 
 - Nur `freigabe` oder `abgeschlossen` verarbeiten.
 - Inhalte und Editorbewertung nicht verändern.
-- Keine Beiträge vor heute oder vor dem Veröffentlichungstag des Quellartikels terminieren.
-- Keine künstlichen Lücken oder feste Wochenfrequenz erzeugen.
+- Das Datum des ersten Beitrags entspricht immer dem Datum des Quellartikels.
+- Innerhalb einer Serie höchstens einen Beitrag pro Tag terminieren.
+- Bereits vorhandene Beiträge anderer Serien dürfen am selben Tag geplant sein.
+- Keine künstlichen Lücken erzeugen.
 - Keine X-API oder d15r verändern oder ausführen.
+- Prozess- und Lerndateien nur aufnehmen, wenn sie nachweislich durch den aktuellen X-Zyklus verändert wurden.
 - Keine unabhängigen Änderungen stagen oder committen.
 - Keinen Force-Push verwenden.
 

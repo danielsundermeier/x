@@ -14,38 +14,20 @@
 ### Erwartete Verbesserung
 ```
 
-## 2026-07-27 – Welches Spiel wollen wir spielen?
+## 2026-07-27 – Terminierung an den Artikel binden
 
 ### Beobachtung
 
-Der Veröffentlichungstag des Quellartikels lag einen Tag vor dem aktuellen Datum, und unter `posts/` waren noch keine Termine belegt. Die sieben Beiträge konnten deshalb lückenlos ab heute eingeplant werden.
+Die Suche nach dem nächsten freien Tag trennte die Tweets zeitlich vom zugehörigen Artikel. Außerdem ist es nicht erforderlich, konkurrierende Serien gegeneinander zu verschieben: Mehrere Tweets dürfen für denselben Tag geplant sein.
 
 ### Auswirkung auf Terminierung oder Übergabe
 
-Die Serie wurde vom 27. Juli bis 2. August 2026 terminiert, als valides JSON ausgegeben und der geprüfte Entwurf archiviert.
+Jede Serie beginnt künftig immer am Datum ihres Quellartikels. Die weiteren Tweets dieser Serie folgen im Abstand von jeweils einem Kalendertag. Überschneidungen mit anderen Serien sind erlaubt.
 
 ### Änderung am Prozess des Herausgebers
 
-Keine. Der bestehende Prozess bestimmte Start, Reihenfolge und Zeitraum eindeutig.
+Die Suche nach freien Tagen wurde entfernt. Das Artikeldatum ist jetzt verbindlicher Startpunkt; nur innerhalb einer einzelnen Serie gilt höchstens ein Tweet pro Tag.
 
 ### Erwartete Verbesserung
 
-Weitere Serien werden zeigen, ob die Terminprüfung bei bereits belegten Tagen zusätzliche Regeln benötigt.
-
-## 2026-07-27 – Was ELIZA nicht lernen konnte
-
-### Beobachtung
-
-Der frühestmögliche Starttag war bereits durch die vorherige Serie belegt. Da deren Termine lückenlos bis zum 2. August reichten, begann die neue Serie am unmittelbar folgenden freien Kalendertag.
-
-### Auswirkung auf Terminierung oder Übergabe
-
-Die neun Beiträge wurden ohne künstliche Lücken vom 3. bis 11. August 2026 terminiert, als valides JSON ausgegeben und der geprüfte Entwurf archiviert.
-
-### Änderung am Prozess des Herausgebers
-
-Keine. Der bestehende Prozess löste die fortlaufend belegten Tage eindeutig auf.
-
-### Erwartete Verbesserung
-
-Auch bei weiteren überlappenden Serien bleibt nachvollziehbar, dass der früheste freie Tag und nicht eine feste Veröffentlichungsfrequenz den Start bestimmt.
+Artikel und zugehörige Tweets bleiben zeitlich verbunden. Gleichzeitig werden neue Gedanken nicht durch bereits geplante Serien unnötig nach hinten verschoben.

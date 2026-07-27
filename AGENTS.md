@@ -38,5 +38,5 @@ Bei einem Einzelauftrag keine vorherige oder nachfolgende Rolle automatisch star
 - Keine Plattform oder API anbinden.
 - Keine Inhalte aus Knowledge übernehmen.
 - Autor und Editor erstellen keine Commits oder Pushes.
-- Der Herausgeber committed und pusht ausschließlich die von ihm veröffentlichte X-Serie.
+- Der Herausgeber committed und pusht die veröffentlichte X-Serie sowie die Prozess- und Lerndateien, die nachweislich in diesem X-Zyklus verändert wurden.
 - Bestehende, nicht zur Aufgabe gehörende Änderungen bleiben unangetastet.

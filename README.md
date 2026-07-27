@@ -26,3 +26,7 @@ Alle drei Rollen sind aktiv. Autor und Editor arbeiten in höchstens drei Iterat
 - `drafts/`: noch nicht bewertete Beitragsserien
 - `published/`: geprüfte Markdown-Entwürfe und ihre Prozessdaten
 - `posts/`: terminierte JSON-Dateien für die technische Weiterverarbeitung
+
+## Terminierung
+
+Der erste Beitrag einer Serie erscheint am Datum des Quellartikels. Danach folgt innerhalb der Serie täglich ein weiterer Beitrag. Mehrere Beiträge aus unterschiedlichen Serien dürfen für denselben Tag geplant sein.
