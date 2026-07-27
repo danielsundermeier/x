@@ -31,3 +31,21 @@ Keine. Der bestehende Prozess bestimmte Start, Reihenfolge und Zeitraum eindeuti
 ### Erwartete Verbesserung
 
 Weitere Serien werden zeigen, ob die Terminprüfung bei bereits belegten Tagen zusätzliche Regeln benötigt.
+
+## 2026-07-27 – Was ELIZA nicht lernen konnte
+
+### Beobachtung
+
+Der frühestmögliche Starttag war bereits durch die vorherige Serie belegt. Da deren Termine lückenlos bis zum 2. August reichten, begann die neue Serie am unmittelbar folgenden freien Kalendertag.
+
+### Auswirkung auf Terminierung oder Übergabe
+
+Die neun Beiträge wurden ohne künstliche Lücken vom 3. bis 11. August 2026 terminiert, als valides JSON ausgegeben und der geprüfte Entwurf archiviert.
+
+### Änderung am Prozess des Herausgebers
+
+Keine. Der bestehende Prozess löste die fortlaufend belegten Tage eindeutig auf.
+
+### Erwartete Verbesserung
+
+Auch bei weiteren überlappenden Serien bleibt nachvollziehbar, dass der früheste freie Tag und nicht eine feste Veröffentlichungsfrequenz den Start bestimmt.
