@@ -13,7 +13,10 @@ was_kann_ueberarbeitet_werden: []
 ton:
   ziel: "Ruhig, klar, warm und nachdenklich. Die Beiträge sollen starke Bilder und sanfte Ursache-Wirkung nutzen, ohne zu belehren, zu werben oder fertige Wahrheiten zu behaupten."
   bewertung: "Der Zielton wird erreicht. Beitrag 1 rahmt das potenziell abwertende Bild nun ausdrücklich als Spiegel alter Antriebe; Beitrag 5 bewahrt mit „vielleicht“ die suchende Haltung der Quelle. Die Serie bleibt klar, warm und frei von Imperativen oder Werbesprache."
-status: freigabe
+veroeffentlichung:
+  von: "2026-07-27"
+  bis: "2026-08-02"
+status: veroeffentlicht
 iteration: 2
 ---
 
