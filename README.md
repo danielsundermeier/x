@@ -19,10 +19,11 @@ Alle drei Rollen sind aktiv. Autor und Editor arbeiten in höchstens drei Iterat
 ## Struktur
 
 - `AGENTS.md`: Routing und Grenzen des Repository-Holons
-- `holons/autor/`: aktiver Erstellungsprozess
-- `holons/editor/`: Bewertung und Feedback
-- `holons/herausgeber/`: Terminierung, JSON-Ausgabe, Commit und Push
-- `format/entwurf.md`: gemeinsames Entwurfsformat
+- `.agents/roles/coordinator/`: Übergaben innerhalb des X-Holons
+- `.agents/roles/autor/`: aktiver Erstellungsprozess
+- `.agents/roles/editor/`: Bewertung und Feedback
+- `.agents/roles/herausgeber/`: Terminierung, JSON-Ausgabe, Commit und Push
+- `.agents/conventions/entwurf.md`: gemeinsames Entwurfsformat
 - `drafts/`: noch nicht bewertete Beitragsserien
 - `published/`: geprüfte Markdown-Entwürfe und ihre Prozessdaten
 - `posts/`: terminierte JSON-Dateien für die technische Weiterverarbeitung

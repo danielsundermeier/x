@@ -26,7 +26,7 @@ Die Entscheidung unter `strategie.ziel` im Frontmatter knapp begründen.
 
 ## 3. Ton übertragen
 
-Den Ton aus `../../../blog/holons/autor/prozess.md` übernehmen:
+Den Ton aus `../../../../blog/.agents/roles/autor/prozess.md` übernehmen:
 
 - inspirierend, ruhig, klar, warm und zugewandt
 - nicht belehrend, drängend oder missionierend
@@ -52,7 +52,7 @@ Ein X-Beitrag muss nicht die gesamte Dramaturgie eines Artikels nachbilden. Er s
 
 ## 5. Entwurf erstellen
 
-- Das Format aus `../../format/entwurf.md` verwenden.
+- Das Format aus `../../conventions/entwurf.md` verwenden.
 - Unter `quelle` auf den veröffentlichten Blogartikel verweisen.
 - Unter `beschreibung` Inhalt und gemeinsames Thema der Beiträge beschreiben.
 - Unter `strategie.ziel` Auswahl, Formen und Anzahl begründen.

@@ -1,42 +1,25 @@
 # X
 
-X ist ein eigenständiges Repository-Holon für Beiträge auf der Plattform X und die spätere Verarbeitung ihrer Resonanz.
+X ist ein eigenständiges Holon für Beiträge auf der Plattform X und die spätere Verarbeitung ihrer Resonanz.
 
-## Rollen
+## Arbeitsmodell
 
-X besteht aus drei Rollen-Holons:
+- Sichtbare Dateien und Verzeichnisse enthalten Entwürfe, veröffentlichte Serien und technische Ausgaben.
+- `.agents/` enthält Rollen, Prozesse, Lernprotokolle und Formatkonventionen.
+- `AGENTS.md` ist der Einstiegspunkt und verweist auf die zuständige Rolle.
 
-1. `holons/autor/` entwickelt oder überarbeitet X-Beiträge aus einem veröffentlichten Blogartikel.
-2. `holons/editor/` bewertet die Beiträge und gibt strukturiertes Feedback.
-3. `holons/herausgeber/` terminiert freigegebene Beiträge, erzeugt die JSON-Ausgabe und veröffentlicht sie im X-Repository.
+## Routing
 
-## Standardworkflow
+| Signal oder Auftrag | Zuständige Rolle |
+| --- | --- |
+| Ein veröffentlichter Blogartikel soll vollständig verarbeitet werden | `.agents/roles/coordinator/AGENTS.md` |
+| Ein ausdrücklicher Einzelauftrag an Autor, Editor oder Herausgeber | `.agents/roles/coordinator/AGENTS.md` |
 
-Bei einem Auftrag, X-Beiträge aus einem veröffentlichten Blogartikel zu erstellen:
-
-1. Autor erstellt einen Entwurf unter `drafts/`.
-2. Editor bewertet den Entwurf.
-3. Autor und Editor wiederholen ihre Schritte bei Bedarf, höchstens bis Iteration 3.
-4. Bei `status: freigabe` oder `status: abgeschlossen` übernimmt der Herausgeber automatisch.
-5. Bei `status: blockiert` endet der Ablauf in `drafts/` und der Grund wird gemeldet.
-
-Der Standardworkflow endet erst nach Archivierung, JSON-Ausgabe, Commit und Push durch den Herausgeber oder mit einem blockierten Entwurf.
-
-## Einzelne Rollen aufrufen
-
-Jede Rolle kann ausnahmsweise einzeln beauftragt werden:
-
-- `Autor`: erstellt oder überarbeitet nur einen Entwurf und stoppt.
-- `Editor`: bewertet nur den genannten Entwurf und stoppt.
-- `Herausgeber`: verarbeitet nur den genannten freigegebenen oder abgeschlossenen Entwurf.
-
-Bei einem Einzelauftrag keine vorherige oder nachfolgende Rolle automatisch starten.
+Vor der Arbeit die verlinkte `AGENTS.md` vollständig lesen. Der Koordinator wählt den passenden eigenen Prozess und verweist auf die einzelnen Rollen.
 
 ## Grenzen
 
 - Nur veröffentlichte Blogartikel als Quelle verwenden.
 - Keine Plattform oder API anbinden.
 - Keine Inhalte aus Knowledge übernehmen.
-- Autor und Editor erstellen keine Commits oder Pushes.
-- Der Herausgeber committed und pusht die veröffentlichte X-Serie sowie die Prozess- und Lerndateien, die nachweislich in diesem X-Zyklus verändert wurden.
 - Bestehende, nicht zur Aufgabe gehörende Änderungen bleiben unangetastet.

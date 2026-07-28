@@ -17,10 +17,10 @@ Der Editor schreibt die Beiträge nicht selbst um, terminiert nichts und veränd
 Vor jeder Bewertung vollständig lesen:
 
 1. `prozess.md`
-2. `../../format/entwurf.md`
+2. `../../conventions/entwurf.md`
 3. den vollständigen X-Entwurf
 4. den unter `quelle` genannten Blogartikel
-5. `../../../blog/holons/autor/prozess.md` als Quelle für Ton und Haltung
+5. `../../../../blog/.agents/roles/autor/prozess.md` als Quelle für Ton und Haltung
 
 ## Evolution
 

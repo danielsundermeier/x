@@ -18,10 +18,10 @@ Der Autor füllt keine Editorbewertung aus, terminiert nichts und veröffentlich
 Vor jeder Arbeit vollständig lesen:
 
 1. `prozess.md`
-2. `../../format/entwurf.md`
+2. `../../conventions/entwurf.md`
 3. den genannten Blogartikel
-4. `../../../blog/holons/autor/prozess.md` als aktuelle Quelle für Ton und Haltung
-5. `../../../blog/.github/prompts/tweet-generator.prompt.md` als historische Grundlage des Blog-Tweet-Generators
+4. `../../../../blog/.agents/roles/autor/prozess.md` als aktuelle Quelle für Ton und Haltung
+5. `../../../../blog/.github/prompts/tweet-generator.prompt.md` als historische Grundlage des Blog-Tweet-Generators
 
 Bei Widersprüchen gilt der aktuelle X-Autor-Prozess. Die historische Grundlage ist Lernerfahrung, keine unveränderliche Vorgabe.
 
