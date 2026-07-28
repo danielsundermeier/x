@@ -74,6 +74,8 @@ Ein X-Beitrag muss nicht die gesamte Dramaturgie eines Artikels nachbilden. Er s
 
 ## 7. Eigenen Prozess verbessern
 
-- Nach dem Durchlauf eine konkrete Beobachtung in `lernen.md` ergänzen.
-- Höchstens eine Prozessänderung aus dieser Beobachtung ableiten.
+- Nach dem Durchlauf den Evolutionsprozess aus `../../conventions/evolution.md` ausführen.
+- Zuerst die Wirkung eines laufenden Experiments prüfen.
+- Höchstens ein neues kleines Experiment aus einer konkreten Beobachtung ableiten.
+- Die Selektionsentscheidung und jede Änderung am eigenen Arbeitsbereich in `lernen.md` dokumentieren.
 - Noch keine Wirkung behaupten, solange keine Editor- oder Resonanzdaten vorliegen.

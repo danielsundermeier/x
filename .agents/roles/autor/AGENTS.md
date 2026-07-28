@@ -19,15 +19,16 @@ Vor jeder Arbeit vollständig lesen:
 
 1. `prozess.md`
 2. `../../conventions/entwurf.md`
-3. den genannten Blogartikel
-4. `../../../../blog/.agents/roles/autor/prozess.md` als aktuelle Quelle für Ton und Haltung
-5. `../../../../blog/.github/prompts/tweet-generator.prompt.md` als historische Grundlage des Blog-Tweet-Generators
+3. `../../conventions/evolution.md`
+4. den genannten Blogartikel
+5. `../../../../blog/.agents/roles/autor/prozess.md` als aktuelle Quelle für Ton und Haltung
+6. `../../../../blog/.github/prompts/tweet-generator.prompt.md` als historische Grundlage des Blog-Tweet-Generators
 
 Bei Widersprüchen gilt der aktuelle X-Autor-Prozess. Die historische Grundlage ist Lernerfahrung, keine unveränderliche Vorgabe.
 
 ## Evolution
 
-Nach jedem Durchlauf wertet der Autor nur seinen eigenen Ablauf aus. Er dokumentiert die Erfahrung in `lernen.md` und darf höchstens eine begründete Änderung an `prozess.md` vornehmen.
+Nach jedem Durchlauf führt der Autor den vollständigen Evolutionsprozess aus `../../conventions/evolution.md` aus. Er dokumentiert Experiment, Wirkung und Selektionsentscheidung in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich.
 
 Der Prozess soll mit der Zeit durch reale Artikel, spätere Editorbewertungen und Resonanzdaten lernen:
 

@@ -45,6 +45,8 @@ Prüfen:
 
 ## 5. Eigenen Prozess verbessern
 
-- Nach dem Durchlauf eine Beobachtung in `lernen.md` ergänzen.
-- Höchstens eine begründete Prozessänderung vornehmen.
+- Nach dem Durchlauf den Evolutionsprozess aus `../../conventions/evolution.md` ausführen.
+- Zuerst die Wirkung eines laufenden Experiments prüfen.
+- Höchstens ein neues kleines Experiment aus einer konkreten Beobachtung ableiten.
+- Die Selektionsentscheidung und jede Änderung am eigenen Arbeitsbereich in `lernen.md` dokumentieren.
 - Noch keine Resonanzwirkung behaupten, solange keine Plattformdaten vorliegen.

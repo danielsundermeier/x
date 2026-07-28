@@ -5,15 +5,19 @@
 ```markdown
 ## YYYY-MM-DD – Artikel
 
-### Beobachtung
+### Beobachtung und Daten
 
-### Entscheidung über Form und Anzahl
+### Laufendes Experiment
 
-### Ergebnis
+### Erkannte Wirkung
 
-### Änderung am Autor-Prozess
+### Selektionsentscheidung
 
-### Erwartete Verbesserung
+Beibehalten | Anpassen | Verwerfen | Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+### Neues Experiment und erwartete Wirkung
 ```
 
 ## 2026-07-27 – Welches Spiel wollen wir spielen?

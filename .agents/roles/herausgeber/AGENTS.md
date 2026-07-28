@@ -29,4 +29,4 @@ Er wird automatisch nach dem Autor-Editor-Zyklus oder ausnahmsweise durch einen 
 
 ## Evolution
 
-Nach jedem Durchlauf wertet der Herausgeber nur Terminierung, Format und Übergabe aus. Eine Erfahrung wird in `lernen.md` dokumentiert. Höchstens eine begründete Änderung darf den eigenen `prozess.md` verbessern.
+Vor der Arbeit liest der Herausgeber `../../conventions/evolution.md`. Nach jedem Durchlauf wertet er nur Terminierung, Format und Übergabe aus. Er dokumentiert Experiment, Wirkung und Selektionsentscheidung in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich. Zuständigkeit und Grenzen bleiben unverändert.

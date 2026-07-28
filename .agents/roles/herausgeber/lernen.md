@@ -5,13 +5,19 @@
 ```markdown
 ## YYYY-MM-DD – Serie
 
-### Beobachtung
+### Beobachtung und Daten
 
-### Auswirkung auf Terminierung oder Übergabe
+### Laufendes Experiment
 
-### Änderung am Prozess des Herausgebers
+### Erkannte Wirkung
 
-### Erwartete Verbesserung
+### Selektionsentscheidung
+
+Beibehalten | Anpassen | Verwerfen | Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+### Neues Experiment und erwartete Wirkung
 ```
 
 ## 2026-07-27 – Terminierung an den Artikel binden
