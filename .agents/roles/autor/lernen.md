@@ -63,3 +63,29 @@ Keine. Die vorhandenen Regeln zur eigenständigen Verständlichkeit und zur pass
 ### Erwartete Verbesserung
 
 Die Trennung zwischen einem Gedanken, der allein als Bild trägt, und einem abstrakten Begriff, der Kontext benötigt, soll künftig schon bei der Strategieentscheidung bewusster geprüft werden.
+
+## 2026-07-29 – Wenn Ruhe sichtbar wird
+
+### Beobachtung und Daten
+
+Der Artikel verbindet persönliche Routinen mit ihrer möglichen sozialen Wirkung. Sechs Gedanken bleiben ohne die vollständige Dramaturgie eigenständig verständlich: sichtbare Ruhe, körperliche Distanzsignale, der Schutz durch Routine, Routine als Boden für innere Arbeit sowie soziale Abwärts- und Aufwärtsspiralen. Die Deutung der Reaktionen anderer ist im Artikel bewusst nicht als Gewissheit formuliert.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die Strategieentscheidung trennt persönliche Beobachtungen von sanfter Ursache-Wirkung und bewahrt Unsicherheit mit Formulierungen wie „können“ und „vielleicht“. Eine Editorbewertung liegt noch nicht vor; die Wirkung der Auswahl ist daher noch nicht bestätigt.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Der bestehende Prozess deckt Eigenständigkeit, Quelltreue und passenden Geltungsumfang bereits ab.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Zunächst soll das Editorfeedback zeigen, ob die sechs Beiträge inhaltlich deutlich genug voneinander getrennt sind.

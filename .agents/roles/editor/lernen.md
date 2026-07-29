@@ -55,3 +55,29 @@ Keine. Die bestehende Prüfung, ob Form und Anzahl zur Substanz passen und schwa
 ### Erwartete Verbesserung
 
 Bei künftigen Serien soll die Anzahl weiterhin aus den unterscheidbaren Gedankenfunktionen der Beiträge beurteilt werden, nicht aus einem pauschalen Ideal für kurze oder lange Serien.
+
+## 2026-07-29 – Wenn Ruhe sichtbar wird
+
+### Beobachtung und Daten
+
+Die sechs Beiträge behandeln nah verwandte Aspekte eines Gedankens, erfüllen aber jeweils eine unterscheidbare Funktion: sichtbares Zeichen, mögliche körperliche Erklärung, persönliche Schutzregel, begrenzte Funktion von Routinen sowie soziale Abwärts- und Aufwärtsspirale. Alle Beiträge blieben unter der Plattformgrenze und eigenständig verständlich.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die Prüfung nach Gedankenfunktionen statt nach bloßer Themenähnlichkeit machte sichtbar, dass insbesondere die beiden Spiralen keine Wiederholung sind, sondern entgegengesetzte Rückkopplungen beschreiben. Der Entwurf konnte in Iteration 1 ohne Überarbeitung freigegeben werden. Resonanzdaten liegen nicht vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die bestehenden Prüfungen auf Eigenständigkeit, Bedeutungsverlust und passende Anzahl waren ausreichend.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die Unterscheidung nach Funktion soll weiterhin als Teil der bestehenden Strategieprüfung angewendet werden.
