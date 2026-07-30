@@ -177,3 +177,42 @@ Nur dieser Lernprotokolleintrag wurde ergänzt. Der Koordinator-Prozess blieb un
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Der bestehende Ablauf verband die drei Rollen eindeutig und ohne unnötige Wiederholung.
+
+## 2026-07-30 – Nachholsignal intern routen
+
+### Beobachtung und Daten
+
+Die X-Einstiegsschnittstelle kannte neue Blogartikel und ausdrückliche
+Einzelaufträge, aber keinen Auftrag zum Nachholen vorhandener
+Arbeitsgegenstände. Dadurch musste Foundation zwei freigegebene Entwürfe
+inventarisieren und die interne Herausgeberzuständigkeit bestimmen, obwohl
+beides in die Verantwortung des X-Holons fällt.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Für ein Nachholsignal lagen bislang weder ein eigener Routing-Eintrag noch ein
+Koordinatorprozess vor. Eine Wirkung der nun ergänzten Route kann erst in einem
+späteren Nachholdurchgang beobachtet werden.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Die X-Einstiegsschnittstelle und das Routing des Koordinators verweisen
+Nachholsignale nun auf `process-backlog.md`. Der neue Prozess inventarisiert
+sichtbare X-Arbeitsgegenstände, ordnet dokumentierte Zustände der jeweils
+zuständigen Rolle zu und lässt jede Rolle ihren bestehenden Prozess selbst
+ausführen. Unklare und blockierte Zustände werden gemeldet statt erraten.
+
+### Neues Experiment und erwartete Wirkung
+
+Die statusbasierte Nachholroute wird als kleines Experiment eingeführt.
+Erwartet wird, dass Foundation künftig nur das Eingangssignal an X übergibt und
+der X-Koordinator Rückstände ohne fachliche Stellvertretung vollständig an die
+zuständigen Rollen weiterleitet.

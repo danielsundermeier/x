@@ -9,6 +9,7 @@ Der Koordinator steuert ausschließlich die Übergaben zwischen den Rollen des X
 | Einen veröffentlichten Blogartikel vollständig verarbeiten | `process-article.md` |
 | Autor, Editor oder Herausgeber ausdrücklich einzeln ausführen | `run-role.md` |
 | Historischer Einzelauftrag nur an den Autor | `run-author.md` |
+| Liegengebliebene X-Arbeitsgegenstände nachholen oder fortsetzen | `process-backlog.md` |
 
 Nach Auswahl eines Prozesses:
 

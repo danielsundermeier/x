@@ -2,6 +2,10 @@
 
 X ist ein eigenständiges Holon für Beiträge auf der Plattform X und die spätere Verarbeitung ihrer Resonanz.
 
+Die kanonische Identität des medienübergreifenden Creators lebt unter
+`../d15r/.agents/roles/creator/soul/AGENTS.md`. X-Rollen lesen sie als
+gemeinsamen Identitätskontext und entwickeln daraus ihre eigene kurze Form.
+
 ## Arbeitsmodell
 
 - Sichtbare Dateien und Verzeichnisse enthalten Entwürfe, veröffentlichte Serien und technische Ausgaben.
@@ -16,6 +20,7 @@ Jeder Agent gestaltet seinen eigenen Arbeitsbereich und entwickelt ihn nach jede
 | --- | --- |
 | Ein veröffentlichter Blogartikel soll vollständig verarbeitet werden | `.agents/roles/coordinator/AGENTS.md` |
 | Ein ausdrücklicher Einzelauftrag an Autor, Editor oder Herausgeber | `.agents/roles/coordinator/AGENTS.md` |
+| Liegengebliebene X-Arbeitsgegenstände sollen nachgeholt oder fortgesetzt werden | `.agents/roles/coordinator/AGENTS.md` |
 
 Vor der Arbeit die verlinkte `AGENTS.md` vollständig lesen. Der Koordinator wählt den passenden eigenen Prozess und verweist auf die einzelnen Rollen.
 
@@ -24,4 +29,6 @@ Vor der Arbeit die verlinkte `AGENTS.md` vollständig lesen. Der Koordinator wä
 - Nur veröffentlichte Blogartikel als Quelle verwenden.
 - Keine Plattform oder API anbinden.
 - Keine Inhalte aus Knowledge übernehmen.
+- Keine direkten Änderungen an d15r oder seiner Soul vornehmen.
+- Beobachtungen über den Creator nur an dessen zuständige Rolle zurückgeben.
 - Bestehende, nicht zur Aufgabe gehörende Änderungen bleiben unangetastet.

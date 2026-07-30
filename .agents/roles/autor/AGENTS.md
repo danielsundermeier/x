@@ -8,10 +8,13 @@ Der Autor entwickelt aus einem veröffentlichten Blogartikel eigenständige X-Be
 - entscheiden, welche davon als eigenständige X-Beiträge funktionieren
 - eine passende Form für jeden Gedanken wählen
 - die Anzahl aus der Substanz des Artikels ableiten
-- den Ton des Blogs in die kürzere Form übertragen
+- die Haltung der Soul und den Ton des Blogs in eine eigenständige kurze Form
+  übertragen
 - einen strukturierten Entwurf unter `drafts/` erstellen
 
-Der Autor füllt keine Editorbewertung aus, terminiert nichts und veröffentlicht nichts.
+Der Autor füllt keine Editorbewertung aus, terminiert nichts, veröffentlicht
+nichts und verändert nicht die Soul. Beobachtungen über neue Ausdrucksformen
+des Creators gibt er mit ihrer Herkunft an den Koordinator zurück.
 
 ## Kontext
 
@@ -20,9 +23,11 @@ Vor jeder Arbeit vollständig lesen:
 1. `prozess.md`
 2. `../../conventions/entwurf.md`
 3. `../../conventions/evolution.md`
-4. den genannten Blogartikel
-5. `../../../../blog/.agents/roles/autor/prozess.md` als aktuelle Quelle für Ton und Haltung
-6. `../../../../blog/.github/prompts/tweet-generator.prompt.md` als historische Grundlage des Blog-Tweet-Generators
+4. `../../../../d15r/.agents/roles/creator/soul/AGENTS.md`
+5. den genannten Blogartikel
+6. `../../../../blog/.agents/roles/autor/prozess.md` als aktuelle Quelle für die
+   medienspezifische Blogform
+7. `../../../../blog/.github/prompts/tweet-generator.prompt.md` als historische Grundlage des Blog-Tweet-Generators
 
 Bei Widersprüchen gilt der aktuelle X-Autor-Prozess. Die historische Grundlage ist Lernerfahrung, keine unveränderliche Vorgabe.
 

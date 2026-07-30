@@ -16,8 +16,11 @@ was_kann_ueberarbeitet_werden: []
 ton:
   ziel: "Ruhig, klar, warm und suchend; die Beiträge sollen Zusammenhänge sichtbar machen, ohne eine fertige Wahrheit oder Gesellschaftsordnung zu verkünden."
   bewertung: "Der tatsächliche Ton entspricht dem Ziel durchgehend. Vorsichtige Wendungen wie „kann“, „vielleicht“ und „müsste“ halten die Gedanken offen, ohne sie kraftlos zu machen. Die konkreten Bilder bleiben klar und zugewandt; auch der neue Beitrag 8 formuliert den philosophischen Grundmechanismus ruhig und verständlich, ohne ihn als endgültige Wahrheit zu behaupten. Perspektive und Geltungsumfang sind stimmig."
-status: freigabe
+status: veroeffentlicht
 iteration: 2
+veroeffentlichung:
+  von: 2026-07-30
+  bis: 2026-08-07
 ---
 
 # Was wir schön finden, wollen wir behalten

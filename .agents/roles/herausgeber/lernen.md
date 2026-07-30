@@ -64,6 +64,58 @@ Keine. Die bestehende Terminierungsregel funktionierte auch bei einer tatsächli
 
 Kein neues Experiment. Weitere Zyklen können zeigen, ob die zeitliche Bindung auch bei dichterer Parallelplanung tragfähig bleibt.
 
+## 2026-07-30 – Was wir schön finden, wollen wir behalten
+
+### Beobachtung und Daten
+
+Der freigegebene Entwurf enthielt neun nummerierte Beiträge; `anzahl` stimmte damit überein und alle Beiträge lagen zwischen 221 und 274 Zeichen. Das Datum des Quellartikels war der 30. Juli 2026. Die tägliche Terminierung ergab ohne Lücken den Zeitraum vom 30. Juli bis 7. August 2026.
+
+### Laufendes Experiment
+
+Die Serie am Datum des Quellartikels beginnen und Überschneidungen mit anderen Serien zulassen.
+
+### Erkannte Wirkung
+
+Die Serie bleibt unmittelbar an ihren Quellartikel gebunden und ließ sich ohne künstliche Lücken terminieren. Überschneidungen mit anderen Serien erforderten nach der geltenden Regel keine Verschiebung. Eine unabhängige Prüfung bestätigte, dass die bereits materialisierte JSON-Ausgabe exakt den neun unveränderten Beiträgen entspricht und der archivierte Entwurf gegenüber der Freigabe nur den Veröffentlichungsstatus und -zeitraum ergänzt. Commit und Push unterblieben aufgrund der ausdrücklichen Grenze dieses Auftrags.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die bestehende Terminierungs- und Übergaberegel funktionierte wie erwartet.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Weitere Zyklen können zeigen, ob die zeitliche Bindung auch bei dichterer Parallelplanung tragfähig bleibt.
+
+## 2026-07-30 – Widerstand als Diagnosewerkzeug
+
+### Beobachtung und Daten
+
+Der freigegebene Entwurf enthielt sechs nummerierte Beiträge; `anzahl` stimmte damit überein und alle Beiträge lagen zwischen 217 und 267 Zeichen. Das Datum des Quellartikels war der 31. Juli 2026. Die tägliche Terminierung ergab ohne Lücken den Zeitraum vom 31. Juli bis 5. August 2026.
+
+### Laufendes Experiment
+
+Die Serie am Datum des Quellartikels beginnen und Überschneidungen mit anderen Serien zulassen.
+
+### Erkannte Wirkung
+
+Die Serie bleibt unmittelbar an ihren Quellartikel gebunden und ließ sich ohne künstliche Lücken terminieren. Überschneidungen mit anderen Serien erforderten nach der geltenden Regel keine Verschiebung. Eine unabhängige Prüfung bestätigte, dass die bereits materialisierte JSON-Ausgabe exakt den sechs unveränderten Beiträgen entspricht und der archivierte Entwurf gegenüber der Freigabe nur den Veröffentlichungsstatus und -zeitraum ergänzt. Commit und Push unterblieben aufgrund der ausdrücklichen Grenze dieses Auftrags.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die bestehende Terminierungs- und Übergaberegel funktionierte wie erwartet.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Weitere Zyklen können zeigen, ob die zeitliche Bindung auch bei dichterer Parallelplanung tragfähig bleibt.
+
 ## 2026-07-30 – Die Realität sagt selten sofort
 
 ### Beobachtung und Daten

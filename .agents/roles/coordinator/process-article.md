@@ -13,7 +13,14 @@ Ein veröffentlichter Blogartikel ist referenziert.
 5. Bei `status: freigabe` oder `status: abgeschlossen` den Entwurf über `.agents/roles/herausgeber/AGENTS.md` übergeben.
 6. Bei `status: blockiert` den Herausgeber nicht aufrufen und den Grund melden.
 7. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und in `lernen.md` dokumentieren.
-8. Mit Anzahl, Veröffentlichungszeitraum, Dateien, Commit und Push oder dem konkreten Blocker abschließen.
+8. Nach einer Veröffentlichung eine Creator-Rückgabe mit Quelldatei,
+   erzeugten Dateien und den konkreten Beobachtungen von Autor und Editor
+   erstellen. Den Blogartikel und seine X-Ableitungen als eine gemeinsame
+   Quellenlinie kennzeichnen.
+9. Die Creator-Rückgabe dem aufrufenden Holon als Teil des Ergebnisses
+   übergeben. Der X-Koordinator verändert d15r oder die Soul nicht selbst.
+10. Mit Anzahl, Veröffentlichungszeitraum, Dateien, Commit und Push,
+    Creator-Rückgabe oder dem konkreten Blocker abschließen.
 
 ## Grenze
 

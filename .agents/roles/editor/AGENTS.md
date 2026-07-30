@@ -19,9 +19,15 @@ Vor jeder Bewertung vollständig lesen:
 1. `prozess.md`
 2. `../../conventions/entwurf.md`
 3. `../../conventions/evolution.md`
-4. den vollständigen X-Entwurf
-5. den unter `quelle` genannten Blogartikel
-6. `../../../../blog/.agents/roles/autor/prozess.md` als Quelle für Ton und Haltung
+4. `../../../../d15r/.agents/roles/creator/soul/AGENTS.md`
+5. den vollständigen X-Entwurf
+6. den unter `quelle` genannten Blogartikel
+7. `../../../../blog/.agents/roles/autor/prozess.md` als Quelle für die
+   medienspezifische Blogform
+
+Der Editor verändert die Soul nicht. Spannungen zwischen Quelltreue,
+X-spezifischer Form und gemeinsamer Identität gibt er als prüfbare Beobachtung
+an den Koordinator zurück.
 
 ## Evolution
 

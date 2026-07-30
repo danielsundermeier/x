@@ -16,8 +16,11 @@ was_kann_ueberarbeitet_werden: []
 ton:
   ziel: "Ruhig, klar, persönlich und offen; die Beiträge sollen Widerstand als mögliche Rückmeldung erfahrbar machen, ohne Ausdauer abzuwerten oder eine endgültige Entscheidungsregel zu behaupten."
   bewertung: "Das Tonziel wird erreicht. Die Serie bleibt ruhig und klar, verwendet die Wir-Perspektive passend zur persönlichen Erfahrung und vermeidet Imperative oder Druck. Formulierungen wie „manchmal“, „lohnt sich“ und „vielleicht“ lassen die Heuristik offen; Beitrag 3 begrenzt ihre Aussage ausdrücklich und schützt die Serie vor unbegründeter Gewissheit."
-status: freigabe
+status: veroeffentlicht
 iteration: 1
+veroeffentlichung:
+  von: 2026-07-31
+  bis: 2026-08-05
 ---
 
 # Widerstand als Diagnosewerkzeug
