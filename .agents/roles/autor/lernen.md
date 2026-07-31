@@ -20,6 +20,32 @@ Beibehalten | Anpassen | Verwerfen | Kein Experiment
 ### Neues Experiment und erwartete Wirkung
 ```
 
+## 2026-08-04 – Ein Haus, das man programmieren kann
+
+### Beobachtung und Daten
+
+Der Artikel grenzt Wiederholung ohne Lerngewinn von Wiederholung mit Pflege oder wachsender Fähigkeit ab. Sieben Gedanken bleiben als Kurzform eigenständig: Erhaltungsarbeit, Sparplan, lernende Wiederholung, notwendige Pflege, das programmierbare Haus, Routine und gespeicherte Erfahrung.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment. Für mehrere frühere Entwürfe liegt weiterhin keine Rückmeldung vor.
+
+### Erkannte Wirkung
+
+Die Beiträge unterscheiden die Begriffe nicht nur über das Bild des Hauses: Beitrag 3 beschreibt die Lernfunktion von Wiederholung, Beitrag 4 begrenzt die daraus mögliche Automatisierungsforderung, und Beitrag 7 formuliert den daraus folgenden Systemmaßstab. Eine Editorbewertung liegt noch nicht vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die bestehende Prüfung auf Quelltreue, Eigenständigkeit und Geltungsumfang deckt die zentrale Spannung des Artikels ab.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Zunächst soll das Editorfeedback zeigen, ob die Beiträge zu Erhaltungsarbeit, lernender Wiederholung und Systemmaßstab deutlich genug voneinander getrennt sind.
+
 ## 2026-07-27 – Welches Spiel wollen wir spielen?
 
 ### Beobachtung

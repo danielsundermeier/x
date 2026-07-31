@@ -20,6 +20,32 @@ Beibehalten | Anpassen | Verwerfen | Kein Experiment
 ### Neues Experiment und erwartete Wirkung
 ```
 
+## 2026-08-04 – Ein Haus, das man programmieren kann
+
+### Beobachtung und Daten
+
+Die sieben Beiträge liegen mit 260 bis 280 Zeichen innerhalb der Plattformgrenze und sind ohne den Quellartikel verständlich. Der Funktionsabgleich deckt alle angekündigten Perspektiven ab. Besonders nahe Gedanken bleiben getrennt: Beitrag 1 beschreibt die Belastung durch Erhaltungsarbeit, Beitrag 4 grenzt notwendige Pflege ab; Beitrag 3 behandelt Lernen durch Wiederholung, Beitrag 7 das Bewahren dieses Lernens im System.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment. Die bestehende Prüfung nach Gedankenfunktionen, Strategieziel und Bedeutungsverlust wurde angewendet.
+
+### Erkannte Wirkung
+
+Die Kontextprüfung bestätigt, dass der Entwurf Automatisierung nicht pauschal als Lösung ausgibt. Der Pflege-Beitrag trägt die notwendige Begrenzung eigenständig, während die übrigen Beiträge die daraus entstehende Gestaltungsfrage eröffnen. Quelltreue, Eigenständigkeit und Ton erlauben die Freigabe in Iteration 1. Resonanzdaten liegen nicht vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die bestehenden Prüfungen waren ausreichend.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Der Abgleich von Strategieziel und Gedankenfunktionen sowie die Prüfung auf Bedeutungsverlust durch entfernten Kontext bleiben Bestandteil der bestehenden Bewertung.
+
 ## 2026-07-27 – Welches Spiel wollen wir spielen?
 
 ### Beobachtung

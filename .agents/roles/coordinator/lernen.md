@@ -22,6 +22,32 @@ Beibehalten | Anpassen | Verwerfen | Kein Experiment
 ### Neues Experiment und erwartete Wirkung
 ```
 
+## 2026-08-04 – Ein Haus, das man programmieren kann
+
+### Beobachtung und Daten
+
+Autor, Editor und Herausgeber wurden in der vorgesehenen Reihenfolge aufgerufen. Der Autor entwickelte sieben Beiträge aus dem veröffentlichten Blogartikel. Der Editor gab die Serie in der ersten Iteration ohne Änderungswünsche frei. Der Herausgeber erzeugte die technische JSON-Ausgabe, terminierte die Beiträge täglich vom 4. bis 10. August 2026 und archivierte den geprüften Entwurf.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die Übergabekette konnte ohne Rückgabe an den Autor in einer Iteration abgeschlossen werden. Die technische Validierung bestätigte ein gültiges JSON-Array mit sieben Beiträgen und ausschließlich den Feldern `date` und `message`; alle Beiträge lagen innerhalb der Plattformgrenze. Die Quelle war lokal als veröffentlicht markiert; der ausstehende Blog-Commit und -Push wurde entsprechend der Übergabe nicht zum Blocker.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur dieser Lernprotokolleintrag wurde ergänzt. Der Koordinator-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Der bestehende Ablauf verband die drei Rollen eindeutig und ohne unnötige Wiederholung.
+
 ## 2026-07-29 – Wenn Ruhe sichtbar wird
 
 ### Beobachtung und Daten

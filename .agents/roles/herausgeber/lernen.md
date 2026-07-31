@@ -20,6 +20,32 @@ Beibehalten | Anpassen | Verwerfen | Kein Experiment
 ### Neues Experiment und erwartete Wirkung
 ```
 
+## 2026-08-04 – Ein Haus, das man programmieren kann
+
+### Beobachtung und Daten
+
+Der freigegebene Entwurf enthielt sieben nummerierte Beiträge; `anzahl` stimmte damit überein und alle Beiträge lagen zwischen 260 und 280 Zeichen. Das Datum des Quellartikels war der 4. August 2026. Die tägliche Terminierung ergibt ohne Lücken den Zeitraum vom 4. bis 10. August 2026.
+
+### Laufendes Experiment
+
+Die Serie am Datum des Quellartikels beginnen und Überschneidungen mit anderen Serien zulassen.
+
+### Erkannte Wirkung
+
+Die neue Serie bleibt zeitlich unmittelbar an ihren Quellartikel gebunden und ließ sich ohne künstliche Lücken terminieren. Die JSON-Ausgabe wurde gegen die sieben unveränderten Beiträge geprüft; der archivierte Entwurf ergänzt gegenüber der Freigabe nur Veröffentlichungsstatus und -zeitraum. Resonanzdaten liegen nicht vor.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die bestehende Terminierungs- und Übergaberegel funktionierte wie erwartet.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Weitere Zyklen können zeigen, ob die zeitliche Bindung auch bei dichterer Parallelplanung tragfähig bleibt.
+
 ## 2026-07-27 – Terminierung an den Artikel binden
 
 ### Beobachtung
