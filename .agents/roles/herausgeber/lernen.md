@@ -46,6 +46,32 @@ Keine. Die bestehende Terminierungs- und Übergaberegel funktionierte wie erwart
 
 Kein neues Experiment. Weitere Zyklen können zeigen, ob die zeitliche Bindung auch bei dichterer Parallelplanung tragfähig bleibt.
 
+## 2026-08-02 – Der wandernde Eudaimonia-Architekt
+
+### Beobachtung und Daten
+
+Der freigegebene Entwurf enthielt sieben nummerierte Beiträge; `anzahl` stimmte damit überein und alle Beiträge lagen zwischen 199 und 272 Zeichen. Das Datum des Quellartikels war der 5. August 2026. Die tägliche Terminierung ergab ohne Lücken den Zeitraum vom 5. bis 11. August 2026.
+
+### Laufendes Experiment
+
+Die Serie am Datum des Quellartikels beginnen und Überschneidungen mit anderen Serien zulassen.
+
+### Erkannte Wirkung
+
+Die Serie bleibt unmittelbar an ihren Quellartikel gebunden und ließ sich ohne künstliche Lücken terminieren. Überschneidungen mit anderen Serien erforderten nach der geltenden Regel keine Verschiebung. JSON-Ausgabe und archivierter Entwurf wurden lokal materialisiert; Commit und Push unterblieben aufgrund der ausdrücklichen Grenze dieses Auftrags.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die bestehende Terminierungs- und Übergaberegel funktionierte wie erwartet.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Weitere Zyklen können zeigen, ob die zeitliche Bindung auch bei dichterer Parallelplanung tragfähig bleibt.
+
 ## 2026-07-27 – Terminierung an den Artikel binden
 
 ### Beobachtung

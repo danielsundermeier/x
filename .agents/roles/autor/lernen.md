@@ -271,3 +271,29 @@ Keine. Der bestehende Prozess deckt Auswahl, Eigenständigkeit, Quelltreue und T
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Zunächst soll das Editorfeedback zeigen, ob die drei aufeinander bezogenen Beiträge zu Emergenz, lebendiger Philosophie und Aufwärtsspirale auch einzeln deutlich genug voneinander getrennt sind.
+
+## 2026-08-02 – Der wandernde Eudaimonia-Architekt
+
+### Beobachtung und Daten
+
+Der Artikel verbindet die konkrete Distanz zur Software-Nutzung mit einer entstehenden Lebensform. Sieben Gedanken bleiben eigenständig verständlich: Programmieren ins Blaue, der fehlende Sensor, Gleichgewicht als Rückkopplung, Präsenz als Arbeitsbedingung, die wandernde Rolle, Beteiligung als gemeinsame Ausrichtung und die Rückkehr zu Cardmonitor.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment. Für mehrere frühere Entwürfe stehen weiterhin Resonanzdaten aus.
+
+### Erkannte Wirkung
+
+Die Strategieprüfung trennte insbesondere zwei nahe Gedanken: Der Sensor beschreibt Daniels innere Reaktion auf sichtbare Reibung, während Präsenz die äußere Bedingung schafft, unter der diese Reibung wahrnehmbar wird. Der Editor bestätigte alle sieben Funktionen, Quelltreue und Plattformlänge in Iteration 1. Resonanzdaten liegen nicht vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Der bestehende Prozess deckte Auswahl, Eigenständigkeit, Quelltreue und Ton ab.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Der Abgleich von Strategie und Gedankenfunktionen bleibt Bestandteil der Auswahl.
