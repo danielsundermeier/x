@@ -1,4 +1,7 @@
-# Lernprotokoll des X-Koordinators
+# Historisches Lernarchiv des X-Koordinators
+
+Diese Datei bewahrt frühere Zyklen unverändert. Neue relevante Erfahrung wird
+gegenstandsbezogen unter `lernen/` abgelegt; diese Datei wird nicht erweitert.
 
 Hier entwickelt der Koordinator ausschließlich die Übergaben innerhalb des X-Holons weiter.
 

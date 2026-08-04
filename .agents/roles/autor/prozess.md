@@ -77,5 +77,5 @@ Ein X-Beitrag muss nicht die gesamte Dramaturgie eines Artikels nachbilden. Er s
 - Nach dem Durchlauf den Evolutionsprozess aus `../../conventions/evolution.md` ausführen.
 - Zuerst die Wirkung eines laufenden Experiments prüfen.
 - Höchstens ein neues kleines Experiment aus einer konkreten Beobachtung ableiten.
-- Die Selektionsentscheidung und jede Änderung am eigenen Arbeitsbereich in `lernen.md` dokumentieren.
+- Nur relevante neue Erfahrung gegenstandsbezogen unter `lernen/` festhalten.
 - Noch keine Wirkung behaupten, solange keine Editor- oder Resonanzdaten vorliegen.

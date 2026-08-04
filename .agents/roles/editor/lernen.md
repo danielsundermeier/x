@@ -1,4 +1,7 @@
-# Lernprotokoll des Editors
+# Historisches Lernarchiv des Editors
+
+Diese Datei bewahrt frühere Zyklen unverändert. Neue relevante Erfahrung wird
+gegenstandsbezogen unter `lernen/` abgelegt; diese Datei wird nicht erweitert.
 
 ## Eintrag
 

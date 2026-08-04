@@ -53,7 +53,9 @@ Unter `posts/<ARTIKELNAME>.json` ein valides JSON-Array erzeugen:
 
 - Vor dem Staging den Git-Status prüfen.
 - Die neue JSON-Datei sowie den archivierten Entwurf und gegebenenfalls dessen versionierte Verschiebung aufnehmen.
-- Zusätzlich alle `prozess.md`- und `lernen.md`-Dateien aufnehmen, die eine Rolle nachweislich während dieses X-Zyklus verändert hat.
+- Zusätzlich alle `prozess.md`- und gegenstandsbezogenen Dateien unter
+  `lernen/` aufnehmen, die eine Rolle nachweislich während dieses X-Zyklus
+  verändert hat.
 - Weitere Dateien dürfen nur aufgenommen werden, wenn ihre Änderung unmittelbar aus diesem Zyklus stammt und für dessen Prozess erforderlich ist.
 - Vorhandene Änderungen, deren Herkunft nicht eindeutig diesem Zyklus zugeordnet werden kann, nicht aufnehmen.
 - Jede aufzunehmende Datei einzeln stagen; niemals pauschal das gesamte Repository stagen.

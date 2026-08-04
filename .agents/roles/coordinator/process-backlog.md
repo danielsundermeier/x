@@ -31,7 +31,8 @@ Arbeitsgegenstände des X-Holons nachzuholen oder fortzusetzen.
    oder eindeutig blockiert ist.
 6. Übergaben, abgeschlossene Gegenstände und Blocker melden.
 7. Den Koordinator-Durchgang nach `../../conventions/evolution.md` auswerten
-   und in `lernen.md` dokumentieren.
+   und nur relevante neue Erfahrung gegenstandsbezogen unter `lernen/`
+   festhalten.
 
 ## Grenzen
 

@@ -11,7 +11,8 @@ Ein ausdrücklicher Auftrag nennt genau eine Rolle und den dafür notwendigen Ar
    - `.agents/roles/editor/AGENTS.md`
    - `.agents/roles/herausgeber/AGENTS.md`
 2. Nur diese Rolle mit dem Arbeitsgegenstand aufrufen.
-3. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und in `lernen.md` dokumentieren.
+3. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und
+   nur relevante neue Erfahrung gegenstandsbezogen unter `lernen/` festhalten.
 4. Danach stoppen und das Ergebnis melden.
 
 ## Grenze

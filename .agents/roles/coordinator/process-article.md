@@ -12,7 +12,8 @@ Ein veröffentlichter Blogartikel ist referenziert.
 4. Autor und Editor höchstens drei Autor-Iterationen durchlaufen lassen.
 5. Bei `status: freigabe` oder `status: abgeschlossen` den Entwurf über `.agents/roles/herausgeber/AGENTS.md` übergeben.
 6. Bei `status: blockiert` den Herausgeber nicht aufrufen und den Grund melden.
-7. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und in `lernen.md` dokumentieren.
+7. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und
+   nur relevante neue Erfahrung gegenstandsbezogen unter `lernen/` festhalten.
 8. Nach einer Veröffentlichung eine Creator-Rückgabe mit Quelldatei,
    erzeugten Dateien und den konkreten Beobachtungen von Autor und Editor
    erstellen. Den Blogartikel und seine X-Ableitungen als eine gemeinsame

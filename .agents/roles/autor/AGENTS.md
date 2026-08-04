@@ -33,7 +33,10 @@ Bei Widersprüchen gilt der aktuelle X-Autor-Prozess. Die historische Grundlage 
 
 ## Evolution
 
-Nach jedem Durchlauf führt der Autor den vollständigen Evolutionsprozess aus `../../conventions/evolution.md` aus. Er dokumentiert Experiment, Wirkung und Selektionsentscheidung in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich.
+Nach jedem Durchlauf führt der Autor den vollständigen Evolutionsprozess aus
+`../../conventions/evolution.md` aus. Nur relevante neue Erfahrung hält er
+gegenstandsbezogen unter `lernen/` fest. `lernen.md` bleibt ein historisches
+Archiv.
 
 Der Prozess soll mit der Zeit durch reale Artikel, spätere Editorbewertungen und Resonanzdaten lernen:
 

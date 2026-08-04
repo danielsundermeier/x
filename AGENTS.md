@@ -9,7 +9,8 @@ gemeinsamen Identitätskontext und entwickeln daraus ihre eigene kurze Form.
 ## Arbeitsmodell
 
 - Sichtbare Dateien und Verzeichnisse enthalten Entwürfe, veröffentlichte Serien und technische Ausgaben.
-- `.agents/` enthält Rollen, Prozesse, Lernprotokolle und Formatkonventionen.
+- `.agents/` enthält Rollen, Prozesse, gegenstandsbezogene Lerndateien und
+  Formatkonventionen.
 - `AGENTS.md` ist der Einstiegspunkt und verweist auf die zuständige Rolle.
 
 Jeder Agent gestaltet seinen eigenen Arbeitsbereich und entwickelt ihn nach jedem Zyklus weiter. Dafür gilt `.agents/conventions/evolution.md`.

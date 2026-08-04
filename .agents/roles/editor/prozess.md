@@ -48,5 +48,5 @@ Prüfen:
 - Nach dem Durchlauf den Evolutionsprozess aus `../../conventions/evolution.md` ausführen.
 - Zuerst die Wirkung eines laufenden Experiments prüfen.
 - Höchstens ein neues kleines Experiment aus einer konkreten Beobachtung ableiten.
-- Die Selektionsentscheidung und jede Änderung am eigenen Arbeitsbereich in `lernen.md` dokumentieren.
+- Nur relevante neue Erfahrung gegenstandsbezogen unter `lernen/` festhalten.
 - Noch keine Resonanzwirkung behaupten, solange keine Plattformdaten vorliegen.

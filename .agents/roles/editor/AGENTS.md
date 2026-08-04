@@ -31,4 +31,7 @@ an den Koordinator zurück.
 
 ## Evolution
 
-Nach jedem Durchlauf führt der Editor den vollständigen Evolutionsprozess aus `../../conventions/evolution.md` für sein eigenes Feedback aus. Er dokumentiert Experiment, Wirkung und Selektionsentscheidung in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich. Zuständigkeit und Grenzen bleiben unverändert.
+Nach jedem Durchlauf führt der Editor den vollständigen Evolutionsprozess aus
+`../../conventions/evolution.md` für sein eigenes Feedback aus. Nur relevante
+neue Erfahrung hält er gegenstandsbezogen unter `lernen/` fest. `lernen.md`
+bleibt ein historisches Archiv. Zuständigkeit und Grenzen bleiben unverändert.
