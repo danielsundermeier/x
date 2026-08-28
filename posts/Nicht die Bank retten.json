@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-09-16",
+    "message": "Eine Konsequenz verändert nicht erst das Ergebnis einer Entscheidung. Sie verändert schon das Verhalten davor. Wer Gewinne behalten darf, bei Verlusten aber sicher gerettet wird, hat einen anderen Anreiz als jemand, der die Folgen seiner Wette selbst trägt."
+  },
+  {
+    "date": "2026-09-17",
+    "message": "Folgenloses Respawning erzeugt wenig Lernen. Permadeath kann genauso lernfeindlich sein: Wenn ein Fehler alles vernichtet, optimieren wir auf Überleben statt auf Entdeckung. Lernende Systeme brauchen echte Konsequenzen ohne existenzielle Konsequenzen."
+  },
+  {
+    "date": "2026-09-18",
+    "message": "Bei einer Bank spielen mehrere Akteure: Eigentümer, Management, Gläubiger, Einleger und die gemeinsame Infrastruktur. Ein gutes Sicherheitsnetz verwischt ihre Verantwortung nicht. Es verhindert, dass die Fehler weniger Menschen wahllos die Kapazität aller anderen zerstören."
+  },
+  {
+    "date": "2026-09-19",
+    "message": "Bank scheitert. Eigentümer verlieren. Management verliert die Kontrolle. Die Bank wird abgewickelt. Einleger können weiterleben. Zahlungen funktionieren. Dann wird nicht die Spielfigur vor Feedback geschützt. Das Spiel wird gerettet."
+  },
+  {
+    "date": "2026-09-20",
+    "message": "„Too big to fail“ ist keine Auszeichnung für Größe. Es ist das Eingeständnis eines Architekturfehlers: Wir haben ein Holon gebaut, das nicht sterben kann, ohne die übergeordnete Ebene zu bedrohen. Abhängigkeit macht einen Akteur unersetzlich — und damit mächtig."
+  },
+  {
+    "date": "2026-09-21",
+    "message": "Zwei Arten von Sicherheit: Wir dürfen X nicht verlieren, also schützen wir X. Oder: X darf verschwinden, deshalb sorgen wir dafür, dass wir nicht von X abhängen. Die zweite entsteht durch Alternativen und Redundanz, nicht durch Unersetzlichkeit."
+  },
+  {
+    "date": "2026-09-22",
+    "message": "Exit ist Feedback. Wenn ich meine Bank, Stadt oder meinen Arbeitgeber tatsächlich verlassen kann, wirkt mein Weggehen als Signal. Sobald eine Seite weiß, dass die andere nicht gehen kann, verändert sich die Beziehung. Abhängigkeit verzerrt Rückkopplung und erzeugt Macht."
+  },
+  {
+    "date": "2026-09-23",
+    "message": "Die Frage an jedes Sicherheitsnetz: Schützt es meine Fähigkeit, nach einem Fehler weiterzuspielen? Oder schützt es einen Akteur davor, durch mein Feedback zu verschwinden? Der erste Schutz baut Kapazität auf. Der zweite kann Abhängigkeit konservieren."
+  },
+  {
+    "date": "2026-09-24",
+    "message": "Banking muss nicht entweder lokal oder skalierbar sein. Beziehung und Kontext bleiben vor Ort. Software, Cybersecurity und Zahlungsverkehr können viele lokale Banken gemeinsam tragen. So lokal wie möglich, so global wie nötig — jede Aufgabe auf ihrer passenden Ebene."
+  }
+]
