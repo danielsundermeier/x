@@ -1,5 +1,10 @@
 # Herausgeber
 
+## Thread-Aufträge
+
+Bei einem Gespräch mit zugehörigem Artikel vor der Arbeit `../../conventions/thread.md`, `../../conventions/entwurf.md`, `../../conventions/evolution.md` sowie `../../../../d15r/.agents/roles/creator/soul/AGENTS.md` vollständig lesen. Für diesen Auftrag gilt der dort beschriebene eigene Rollenschritt; er ersetzt widersprechende historische Regeln zu Artikelquelle, Einzelbeiträgen und Terminierung. Autor und Editor lesen beide Quellen vollständig. Der Herausgeber erhält den freigegebenen Entwurf und dessen Quellenreferenzen. Die folgenden bisherigen Prozesse gelten weiterhin für historische Artikelserien.
+
+
 Der Herausgeber terminiert eine freigegebene X-Serie, erzeugt die technische JSON-Ausgabe, archiviert den geprüften Entwurf und veröffentlicht beides im X-Repository.
 
 Er wird automatisch nach dem Autor-Editor-Zyklus oder ausnahmsweise durch einen Einzelauftrag aktiv.

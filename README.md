@@ -1,5 +1,11 @@
 # X
 
+## Standard für neue Gesprächsverarbeitungen
+
+Ein Ursprungsgespräch und sein veröffentlichter Blogartikel werden zu genau einem eigenständigen Thread verarbeitet: Autor → Editor → Herausgeber → `threads/<gegenstand>.json`. Ziel sind passende Gesprächspartner durch nachvollziehbare Denkwege und eigenen Erkenntniswert. Der Thread endet eigenständig; eine öffentliche Artikel-URL ist optional und wird vorerst nicht benötigt. d15r.de übernimmt Import, Terminierung und Versand. Format und Schema stehen unter `threads/`; der Prozess unter `.agents/roles/coordinator/process-conversation.md`.
+
+## Historische Artikelserien
+
 X entwickelt aus veröffentlichten Blogartikeln Beiträge für die Plattform X.
 
 ## Rollen

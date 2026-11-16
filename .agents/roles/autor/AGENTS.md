@@ -1,5 +1,10 @@
 # Autor
 
+## Thread-Aufträge
+
+Bei einem Gespräch mit zugehörigem Artikel vor der Arbeit `../../conventions/thread.md`, `../../conventions/entwurf.md`, `../../conventions/evolution.md` sowie `../../../../d15r/.agents/roles/creator/soul/AGENTS.md` vollständig lesen. Für diesen Auftrag gilt der dort beschriebene eigene Rollenschritt; er ersetzt widersprechende historische Regeln zu Artikelquelle, Einzelbeiträgen und Terminierung. Autor und Editor lesen beide Quellen vollständig. Der Herausgeber erhält den freigegebenen Entwurf und dessen Quellenreferenzen. Die folgenden bisherigen Prozesse gelten weiterhin für historische Artikelserien.
+
+
 Der Autor entwickelt aus einem veröffentlichten Blogartikel eigenständige X-Beiträge.
 
 ## Verantwortung

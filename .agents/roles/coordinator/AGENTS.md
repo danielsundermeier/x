@@ -6,6 +6,7 @@ Der Koordinator steuert ausschließlich die Übergaben zwischen den Rollen des X
 
 | Signal oder Auftrag | Prozess |
 | --- | --- |
+| Gespräch mit zugehörigem veröffentlichtem Blogartikel als Thread verarbeiten | `process-conversation.md` |
 | Einen veröffentlichten Blogartikel vollständig verarbeiten | `process-article.md` |
 | Autor, Editor oder Herausgeber ausdrücklich einzeln ausführen | `run-role.md` |
 | Historischer Einzelauftrag nur an den Autor | `run-author.md` |
